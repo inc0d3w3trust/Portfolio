@@ -1,0 +1,145 @@
+:root {
+    --localize-item-width: 161px;
+    --localize-color-primary: #fff;
+}
+
+.localize-container {
+    position: static;
+    display: inline-block;
+}
+
+.localize-btn {
+    display: inline-block;
+    padding: 8px 20px;
+    border-radius: 2px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.localize-btn .btn--outline {
+    background-color: transparent;
+    color: var(--localize-color-primary);
+    padding: 8px 20px;
+    border: 1px solid var(--primary);
+    transition: all 0.3s ease-out;
+}
+
+.localize-list {
+    display: none;
+    /* top: -55px; */
+    /* padding: 55px 0 0 0; */
+    /* margin: 0; */
+    list-style-type: none;
+}
+
+.localize-list-active {
+    display: block;
+    position: fixed;
+    list-style-type: none;
+    padding-left: 5px;
+}
+
+.localize-item {
+    background-color: #242424;
+    color: var(--localize-color-primary);
+    padding: 5px;
+    width: var(--localize-item-width);
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.localize-item:hover {
+    background-color: var(--localize-color-primary);
+    color: #242424;
+    transition: all 0.3s ease-out;
+}
+
+.localize-item-disabled {
+    background-color: #242424;
+    color: var(--localize-color-primary);
+    padding: 5px;
+    width: var(--localize-item-width);
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.localize-btn {
+    transition: none;
+    background-color: transparent;
+    border: transparent;
+    color:var(--localize-color-primary);
+}
+
+.localize-btn:hover {
+    transition: none;
+    background-color: transparent;
+    border: transparent;
+    color: #242424;
+    transition: all 0.3s ease-out;
+}
+
+.localize-btn-disabled {
+    display: inline-block;
+    padding: 8px 20px;
+    transition: none;
+    background-color: transparent;
+    border: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    color:#ababab;
+}
+
+.localize-list-mobile {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 90vh;
+    position: absolute;
+    top: 0px;
+    left: -100%;
+    opacity: 1;
+    transition: all 0.5s ease;
+}
+
+.localize-list-mobile.active {
+    background: #242222;
+    left: 0;
+    opacity: 1;
+    transition: all 0.5s ease;
+    z-index: 1;
+}
+
+.localize-title-item {
+    display: flex;
+    align-items: center;
+    height: 40px;
+    color: #fff;
+    font-size: 18px;
+}
+
+.localize-item-mobile {
+    height: 80px;
+}
+
+.localize-link-mobile {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    height: 100%;
+    text-align: center;
+    font-size: 18px;
+    padding: 2rem;
+    width: 100%;
+    display: table;
+}
+
+.localize-link-mobile:hover {
+    background-color: #fff;
+    color: #242424;
+    border-radius: 0;
+}

@@ -1,0 +1,19 @@
+:root {
+    --txt-logo-color: #fff;
+}
+
+.hidden {
+    opacity:0;
+}
+
+.console-container { 
+    /* font-family:'Roboto+Mono'; */
+    font-size: 20px;
+    text-align:center;
+    color:var(--txt-logo-color);
+}
+
+.console-underscore {
+    display: inline-block;
+    position: relative;
+}
