@@ -1,0 +1,85 @@
+{
+    "portal_back": "Back",
+    
+    "navbar_home": "Home",
+    "navbar_experience": "Experience",
+    "navbar_projects": "Projects",
+    "navbar_about": "About Me",
+    "navbar_btn_login": "Login",
+    "navbar_btn_logout": "Logout",
+
+    "footer_prefix_tel": "tel:",
+    "footer_prefix_email": "email:",
+    "footer_clipboard_copy": "Copy to Clipboard",
+    "footer_clipboard_saved": "Saved to Clipboard",
+
+    "homepage_context_title": "What is Lorem Ipsum?",
+    "homepage_context_line1": "Hello.",
+    "homepage_context_line2": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.",
+    "homepage_context_line3": "The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.",
+
+    "education_card_title-1": "project management",
+    "education_card_title-2": "database",
+    "education_card_title-3": "project environment",
+    "education_card_title-4": "language",
+    "education_card_title-5": "frameworks",
+    "education_card_title-6": "software",
+
+    "experience_context_title": "Experience",
+    "experience_context_article_subitem-1": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout.",
+    "experience_context_article_subitem-2": "A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.",
+    "experience_context_article_subitem-3": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. The placeholder text, beginning with the line “Lorem ipsum dolor sit amet, consectetur adipiscing elit”, looks like Latin because in its youth, centuries ago, it was Latin.",
+    "experience_context_article_subitem-4": "The placeholder text, beginning with the line “Lorem ipsum dolor sit amet, consectetur adipiscing elit”, looks like Latin because in its youth, centuries ago, it was Latin.",
+
+    "projects_title": "Projects",
+    "projects_card-1-title": "Backup & Restore tool",
+    "projects_card-1-context-1": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print <link1>AOI</link1> programs, graphic or web designs.",
+    "projects_card-1-context-2": "Lorem ipsum dolor sit amet:",
+    "projects_card-1-context-2-sublist-1": "agam accumsan scribentur an usu",
+    "projects_card-1-context-2-sublist-2": "equidem urbanitas ex has, paulo reprimique adversarium vim no, usu enim tractatos efficiendi te",
+    "projects_card-1-context-2-sublist-3": "restore the programs and libraries from backup",
+    "projects_card-1-context-2-sublist-4": "ad eum idque dictas. Sanctus detracto accommodare ea qui",
+    "projects_card-1-context-2-sublist-5": "vel at possim inermis corpora. Id quidam legendos signiferumque nec",
+    "projects_card-1-context-3": "Sit in diceret corrumpit, at vim dicta aliquip. Labores phaedrum pro at.",
+
+    "projects_card-2-title": "Log Combiner",
+    "projects_card-2-context-1": "Ea repudiare prodesset reprehendunt vix, agam iracundia eos et, sed diam tamquam volumus an. <link1>AOI</link1>  Usu no dolore vivendo.",
+
+    "projects_card-3-title": "Tracefiles counter",
+    "projects_card-3-context-1": "Ea omnes scripta vix, tation tritani tamquam pri in. Ludus atomorum vulputate usu ne. In bonorum appellantur sit, legere evertitur in mei. Facilisis persecuti definiebas ex eam, alia mediocrem per no, amet unum meis ad vis.",
+    "projects_card-3-context-2": "Mea nemore intellegat no, efficiendi necessitatibus qui in. <link2>Osai laser maker</link2> Mea nemore intellegat no, efficiendi necessitatibus qui in. Dicat blandit eam te",
+    "projects_card-3-context-3": "Ea justo errem necessitatibus duo. Dico posidonium voluptatibus qui te. Mei graece commune ea.",
+    "projects_card-3-context-4": "Ea mel nibh probo partiendo, ea quaestio salutandi eam:",
+    "projects_card-3-context-4-sublist-1": "quo populo repudiare no, mea fabulas antiopam ei",
+    "projects_card-3-context-4-sublist-2": "quo populo repudiare no, mea fabulas antiopam ei",
+    "projects_card-3-context-4-sublist-3": "quo populo repudiare no, mea fabulas antiopam ei",
+    "projects_card-3-context-4-sublist-4": "quo populo repudiare no, mea fabulas antiopam ei",
+    "projects_card-3-context-4-sublist-5": "ad choro appetere molestiae duo, vel dictas lucilius eu, ei mei doctus consetetur",
+    "projects_card-3-context-4-sublist-6": "ut vis dolore nonumes fabellas, at posidonium dissentias sed",
+
+    "projects_card-4-title": "Open source web development with CMS",
+    "projects_card-4-context-1": "Ut vis dolore nonumes fabellas, at posidonium dissentias sed, an qui possit facete. Errem petentium in has. Ne dicat elitr deseruisse vel, probatus percipitur ad has, ea omnis adipiscing pri. Et vis qualisque inciderint, eu mel ludus homero.",
+    "projects_card-4-context-2": "Sea munere inciderint no. Erant omittantur persequeris has id.",
+
+    "projects_card-5-title": "JavaScript NOSQL",
+    "projects_card-5-context-1": "Nec ludus contentiones ei, labore erroribus sed in. Cu vero liberavisse necessitatibus usu. Mea putant accusam ut",
+    "projects_card-5-context-2": "Sea munere inciderint no. Erant omittantur persequeris has id.",
+
+    "projects_card-6-title": "HTML5 & CSS3",
+    "projects_card-6-context-1": "No agam justo mel, vel cu quod democritum. Pro novum tantas accumsan in, pro vide pertinax tincidunt et, lucilius conclusionemque ut vim.",
+    "projects_card-6-context-2": "Sea munere inciderint no. Erant omittantur persequeris has id.",
+
+    "about_content_title": "About Me",
+    "about_content_text1": "Usu dicam aliquip habemus ea, ne has civibus voluptatibus, ad graece facilisi qui. Probo velit cu duo, ridens imperdiet deseruisse cu mea.",
+    "about_content_text2": "Te prompta liberavisse quo, ius et cibo officiis. Aliquam legendos et per. Vel an odio illum fuisset, sale theophrastus ne mel. Numquam aliquam appellantur ad sea. Ex vix dolor vitae, est nominati ullamcorper ei. Velit prompta ei vim. Id rebum corpora vim.",
+    "about_content_text3": "The sphere of interests includes cybersecurity, social engineering, Forenzika, OSINT (Open-Source Intelligence). I am passionate about studying the methods of working on deanonymization of the user in the current realities of artificial intelligence development in data analyzing which collects by the global corporations, commercial and goverment stuctures. Inside of the chain of interests has virtual private networks and cryptography software.",
+    "about_content_text4": "Duo debet deterruisset id, cu integre moderatius ullamcorper nam. Inani graeci timeam in mea. Ea tale hinc vivendum pro, veniam ponderum eu vel. Pri ut dolore petentium.",
+    "about_content_text4-sublist-1": "Ne dicat elitr deseruisse vel, probatus percipitur ad has.",
+    "about_content_text4-sublist-2": "Ne dicat elitr deseruisse vel, probatus percipitur ad has.",
+    "about_content_text4-sublist-3": "Ne dicat elitr deseruisse vel, probatus percipitur ad has.",
+    "about_content_text4-sublist-4": "Ne dicat elitr deseruisse vel, probatus percipitur ad has.",
+
+    "cookie_consent_title":"Cookie Consent",
+    "cookie_consent_text":"The page use cookies to provide the work of nested components and does not track your visit. Press Accept button to hide notification.",
+    "cookie_consent_button": "Accept"
+}
